@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashanth B</h1>
-<h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
+<h3 align="center">A Passionate Machine Learning Enthusiast from India</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
