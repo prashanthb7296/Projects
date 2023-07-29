@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm Prashanth B</h1>
-<h3 align="center">A Passionate Machine Learning Enthusiast from India</h3>
+<h3 align="center">Personal Projects on Machine Learning,</h3>
+<h3 align="center">Deep Learning, Computer Vision and NLP</h3>
 
 <p align="left">
 </p>
